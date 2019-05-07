@@ -1,121 +1,29 @@
-# What is a Product Designer? #
+# The Enduring Ambiguity (The Grey Area) #
 
 > ## Design is concerned with how things work, how they are controlled, and the nature of the interaction between people and technology. When done well, the results are brilliant, pleasurable products. Don Norman, _The Design of Everyday Things_
 
-#### Product design focuses on the entire lifecycle of a product to shape how users interact with it. Especially in larger cities, the industry has seen substantial growth in recent years. 
+Knowing what you know now, you can easily agree there is a lot of fuzziness when it comes to talking about UX and UI design. There are jobs that focus on specialized aspects of an UX designers' responsibilities. There are jobs that have pieces from one specialization with another. We've broken some of it down below but if you get a broad education in the areas that interest you, the job will be there for you to apply to.
 
-Product design is a true digital renaissance position. Leveraging both UX and UI design strategies, product designers have eyes on the entire design process -- from ideation to creation to product shipment. Because Product Designers leverage both skillsets of research, information architecture, testing of UX professionals as well as the visual know-how of extending a brand in the interface design of UI Designers, it required almost twice the education and experience. 
+### Visual Designer ### 
 
-Product Designers many times own aspects or all of each of these other job roles: 
+*   This is more broad than specialized but a visual designer has foundation ins graphic design, branding but can also execute on user interface designs for the digital and physical space. A visual designer many times have knowledge and experience in user experience as well, especially when it comes to the user journey that touches on marketing.
 
-*   [Experience Designer (XD) or User Experience (UX) Designer](../design-phase0-whatisauidesigner/)
-*   [Information Architect (IA) or Experience Architect (XA)](../design-phase0-whatisauidesigner/)
-*   [User Interface (UI) Designer](../design-phase0-whatisauidesigner/)
-*   [Interaction Designer (IX)](../design-phase0-whatisauidesigner/)
+### Interaction Designer (IX) ### 
 
-A better way to look at this is through the lens of the product:
+*   A variant of a visual designer or UI designer. A interaction designer focuses on the motion aspects of the product. What does the transitions look like? What are the micro-interactions that make the brand memorable?
 
-The way a product **feels**. Also known as **user experience (UX) design** for a product. This is the logic behind the product and what it's offering to the user and how it's making the user feel throughout that experience.
+### Information Architect (IA) ### 
 
-The way a product **behaves**. Also known as **interaction design** **(IxD)** for a product. This is what the product or interface does when the user interacts with it. Animations, transitions and haptic feedback are aspects to consider.
+*   A specialized designer that has understanding of the broad user experience but focuses on the content and how it's structured for the user. Information architects organize content by means of  site maps and language and label systems. 
 
-The way a product **looks**. Also known as **user interface (UI) design** for a product. Extending the brand into the interface of the product is key here. This would include considerations in typography, color, imagery, layouts, hierarchy, buttons, forms, etc.
+### Experience Architect (XA) ### 
 
-The way a product is **structured** and how the content is **organized**. Also known as **information architecture** for a product. This is mapping how the user performs and completes a task, tracking from the beginning of their journey to the end. What information and experience they have along the path from point A to point B.
+*   Experience architects, a fairly newer term, encompass several interdisciplinary focuses including user experience, interaction design, information architecture, design research, content management, project management, and application development. This means this designer is a true expert in design, human behavior, writing and even computer science. This role is comparable to Product Designers and some UX Designers in certain markets. 
+*   Wikipedia explains it well when it says XA are "responsible for connecting human emotions with the end product thus creating co-relations by ensuring that the experience meets or exceeds needs and objectives of the intended or wide users." [https://www.wikiwand.com/en/Experience\_architecture](https://www.wikiwand.com/en/Experience_architecture)
 
-So what are some deliverables product designers own? On paper, any key deliverable from the beginning of the product lifecycle to its end are the responsibility of product designers. Some examples include:
+### Experience Designer (XD) ### 
 
-*   Competitive Analysis
-*   Journey Maps
-*   Site Maps
-*   Wireframes
-*   Prototypes
-*   User Testing Scripts
-*   High Fidelity Designs
-*   Design Systems
-
-### **Part process architect, part user experience expert, part interface designer, Product Designers have touch points and responsibilities in:**
-
-*   business strategy
-*   research
-*   process mapping
-*   user experience design
-*   content strategy
-*   information architecture
-*   visual design
-*   user interface design
-*   development
-*   stakeholder presentations
-<br><br>
-
-
-
-## UX Student Interviews ## 
-
-To get a better sense of product design as it relates to Flatiron and our program, here are interviews with some of our alum:
-
-*   [_Marketing student turned product designer._](https://designation.io/blog/course-report-interviewwith-zoe-sinner-product-designer-facebook) by [Zoë Sinner, Amethyst cohort](https://www.linkedin.com/in/zoesinner/) of _[Facebook.](https://www.facebook.com/)_ (5 min read)
-*   [_Former marine researcher turned product designer._](https://designation.io/blog/caitlin-brisson) by [Caitlin Brisson, Basil cohort](http://www.caitlinbrisson.com/) of _[Gusto.](https://gusto.com/)_ (5 min read)
-*   [_How to go from marketing products to a product designer._](https://designation.io/blog/dan-speers) by [Dan Speers, Xenon cohort](http://danielspeers.me/) of _[Shiftgig.](https://www.shiftgig.com/)_ (5 min read)
-<br><br>
-
-
-
-## Articles ## 
-
-
-### [What is a product designer?](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047l)
-by [Henry Wu](https://www.linkedin.com/in/hellohenrywu/) (9 min read) Recently, I was fortunate enough to speak at HubSpot’s First Gen in Tech event where I had the chance to talk about what a Product Designer is and what they do at HubSpot. The event was extremely enlightening. Not only did I have the opportunity to inspire many of my future colleagues but I quickly learned that Product Design is shrouded in mystery outside of those who are already in tech. I was overwhelmed by the feedback and quickly learned there are many questions about what a Product Designer actually does. [Read more](https://medium.com/hubspot-product/explain-it-like-im-5-what-is-a-product-designer-121aad98c047)
-
-### [We are product designers](https://medium.com/build-acl/we-are-product-designers-27a8481d2e98)
-by [Shahed Khalili](https://www.linkedin.com/in/shahedkhalili/?originalSubdomain=ca) (6 min read) We think design matters. We don’t think it matters a little, we think it is the core of our value proposition and central to everything we build. It is even reflected in our company’s mission statement. At ACL design doesn’t simply refer to the user-interactions or visual appearance of a specific feature.Design to us is the entire process we go through to build the desired customer experience. [Read more](https://medium.com/build-acl/we-are-product-designers-27a8481d2e98)
-
-### [Product Design vs UX Design: what’s the difference?](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
-by [Sarah Klein](http://sarah-klein.com/) (4 min read) One of the best things about working in technology is that things are always changing, including what tech folks’ job titles are. As a design professional, it can be easy to get confused by the different job titles du jour. So what’s the difference between a User Experience Designer and a Product Designer? I had an answer based on past conversations with peers in the field, but after some lightweight data collection and analysis, I was led to think differently. [Read more](https://uxdesign.cc/product-design-vs-ux-design-whats-the-difference-461b3f11b76b)
-<br><br>
-
-
-## Videos ## 
-
-### [What are the phases of product design](https://study.com/academy/lesson/steps-of-the-product-design-process.html)
-(5 min) Have you ever wondered what steps it takes to create a product? In this lesson, we'll discuss the product design process, from coming up with ideas to providing a finished product to customers.<br><br>
-<a href="https://study.com/academy/lesson/steps-of-the-product-design-process.html"><img src="https://study.com/cimages/videopreview/videopreview-full/xlqj1rcad5.jpg" width="420"></a>
-
-#
-
-
-### [Product design: how to get started.](https://www.youtube.com/watch?v=NIkg3Ui7ITY) 
-(12 min) How do you get started in product design? AJ&Smart's Brittni Bowering takes us through 5 steps to learn product design fundamentals, approach product design professionals and get started in your product design career! <br><br>
-<a href="https://www.youtube.com/watch?v=NIkg3Ui7ITY"><img src="https://img.youtube.com/vi/NIkg3Ui7ITY/0.jpg" width="420"></a>
-
-#
-
-
-### [Crema: Digital Product Design Explained.](https://www.youtube.com/watch?v=vGmjynrpwoA) 
-(16 min) Ever wondered what digital product design is and how it differs from other types of design? The designers are back in another episode of #designersdiscuss to talk about what sets product design apart as well as the tools we recommend to get started in the industry. <br><br>
-<a href="https://www.youtube.com/watch?v=vGmjynrpwoA"><img src="https://img.youtube.com/vi/vGmjynrpwoA/0.jpg" width="420"></a>
-
-#
-
-### [How design is used to sell products.](https://www.youtube.com/watch?v=AFOpoKBUyok) 
-(6 min) Juul tried to design a solution to a public health problem. It wound up creating another one. <br><br>
-<a href="https://www.youtube.com/watch?v=AFOpoKBUyok"><img src="https://img.youtube.com/vi/AFOpoKBUyok/0.jpg" width="420"></a>
-
-#
-
-
-
-## Tools ##
-
-*   [Sketch](https://www.sketch.comt)
-*   [Adobe XD](https://www.adobe.com/products/xd.html)
-*   [Invision](https://www.invisionapp.com/)
-*   [Zeplin](https://zeplin.io/)
-
-Books
------
-
-*   [Well Designed](https://www.amazon.com/Well-Designed-Empathy-Create-Products-People/dp/1625274793/ref=sr_1_1?keywords=well+designed&qid=1554150820&s=gateway&sr=8-1)
-*   [Hooked](https://www.amazon.com/Hooked-How-Build-Habit-Forming-Products/dp/1591847788/ref=pd_sim_0_4/146-3966154-6500732?_encoding=UTF8&pd_rd_i=1591847788&pd_rd_r=72383911-54bd-11e9-bf6a-1b0d85ff0e6f&pd_rd_w=PBxou&pd_rd_wg=PCOYe&pf_rd_p=90485860-83e9-4fd9-b838-b28a9b7fda30&pf_rd_r=S4GQBDQ3P2VQ7R60ZAK9&psc=1&refRID=S4GQBDQ3P2VQ7R60ZAK9l)
-
-* * *
+*   Experience Design looks at all touchpoints between people, brands, and the ideas, emotions, and memories that these moments create. As holistic problem solvers, XDs must look at an entire brand ecosystem and ask: “How can I orchestrate an experience in a way that delivers results across all channels and touch points?" 
+    
+*   Though this role sounds exactly like what an UX Designer would do, an experience designer focuses on more than the digital touch point and looks at that broad user's journey. Many times, an experience designer is focused on live events and thinks about all five senses of the experiencer, not just the two for user in the digital interface space. 
+*   The XD Agency summarizes this well: "A brand creating a mobile app needs UX. A brand putting on an activation needs XD. User Experience is the more specific discipline; Experience Design is the broader one." [https://xdagency.com/ux-vs-xd/](https://xdagency.com/ux-vs-xd/)
