@@ -1,6 +1,9 @@
 # The Enduring Ambiguity (The Grey Area) #
+<br>
 
-> ## Design is concerned with how things work, how they are controlled, and the nature of the interaction between people and technology. When done well, the results are brilliant, pleasurable products. Don Norman, _The Design of Everyday Things_
+> ## The greater the ambiguity, the greater the pleasure.
+> – Milan Kundera
+
 
 Knowing what you know now, you can easily agree there is a lot of fuzziness when it comes to talking about UX and UI design. There are jobs that focus on specialized aspects of an UX designers' responsibilities. There are jobs that have pieces from one specialization with another. We've broken some of it down below but if you get a broad education in the areas that interest you, the job will be there for you to apply to.
 
