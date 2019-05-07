@@ -5,7 +5,7 @@
 > – Milan Kundera
 
 
-Knowing what you know now, you can easily agree there is a lot of fuzziness when it comes to talking about UX and UI design. There are jobs that focus on specialized aspects of an UX designers' responsibilities. There are jobs that have pieces from one specialization with another. We've broken some of it down below but if you get a broad education in the areas that interest you, the job will be there for you to apply to.
+<br>Knowing what you know now, you can easily agree there is a lot of fuzziness when it comes to talking about UX and UI design. There are jobs that focus on specialized aspects of an UX designers' responsibilities. There are jobs that have pieces from one specialization with another. We've broken some of it down below but if you get a broad education in the areas that interest you, the job will be there for you to apply to.
 
 ### Visual Designer ### 
 
