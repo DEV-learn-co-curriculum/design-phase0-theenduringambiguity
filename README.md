@@ -32,3 +32,9 @@ Experience Design looks at all touchpoints between people, brands, and the ideas
 Though this role sounds exactly like what an UX Designer would do, an experience designer focuses on more than the digital touch point and looks at that broad user's journey. Many times, an experience designer is focused on live events and thinks about all five senses of the experiencer, not just the two for user in the digital interface space. 
 
 The XD Agency summarizes this well: "A brand creating a mobile app needs UX. A brand putting on an activation needs XD. User Experience is the more specific discipline; Experience Design is the broader one." [https://xdagency.com/ux-vs-xd/](https://xdagency.com/ux-vs-xd/)
+<br><br>
+
+
+## Getting Some Clarity ##
+
+So which path should you take? Use the [Design Program Match Tool](https://theflatironschool.typeform.com/to/FpxjnA) to help you figure out which career path is right for you. 
