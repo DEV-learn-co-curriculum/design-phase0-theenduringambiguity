@@ -8,10 +8,10 @@ Product design is a true digital renaissance position. Leveraging both UX and UI
 
 Product Designers many times own aspects or all of each of these other job roles: 
 
-*   Experience Designer (XD) or User Experience (UX) Designer \[Link back\]
-*   Information Architect (IA) or Experience Architect (XA) \[Link back\]
-*   User Interface (UI) Designer \[Link back\]
-*   Interaction Designer (IX) \[Link back\]
+*   [Experience Designer (XD) or User Experience (UX) Designer](../design-phase0-whatisauidesigner/)
+*   [Information Architect (IA) or Experience Architect (XA)](../design-phase0-whatisauidesigner/)
+*   [User Interface (UI) Designer](../design-phase0-whatisauidesigner/)
+*   [Interaction Designer (IX)](../design-phase0-whatisauidesigner/)
 
 A better way to look at this is through the lens of the product:
 
