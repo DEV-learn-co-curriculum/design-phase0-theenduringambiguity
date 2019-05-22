@@ -39,6 +39,6 @@ The XD Agency [says](https://xdagency.com/ux-vs-xd/): "A brand creating a mobile
 <br><br>
 
 
-## Getting Some Clarity 
+## Meet Your Match
+So…which path should YOU take? Use the [Design Program Match Tool](https://theflatironschool.typeform.com/to/FpxjnA) to figure out which career path is right for you.
 
-So which path should you take? Use the [Design Program Match Tool](https://theflatironschool.typeform.com/to/FpxjnA) to help you figure out which career path is right for you. 
