@@ -1,40 +1,44 @@
-# The Enduring Ambiguity (The Grey Area) #
+# The Enduring Ambiguity
 <br>
 
 > ## The greater the ambiguity, the greater the pleasure.
 > – Milan Kundera
 
 
-<br>Knowing what you know now, you can easily agree there is a lot of fuzziness when it comes to talking about UX and UI design. There are jobs that focus on specialized aspects of an UX designers' responsibilities. There are jobs that have pieces from one specialization with another. We've broken some of it down below but if you get a broad education in the areas that interest you, the job will be there for you to apply to.
+Knowing what you know now, you’ll agree that there is a lot of grey area when it comes to talking about UX and UI design. There are a range of jobs available that are anywhere from focused in on certain aspects of one type of design or the other, to broader and more inclusive of pieces from each type of design. The good news is that with all of this ambiguity, if you get a well-rounded education in all of the areas that interest you, a best-match job will definitely be there for you to apply to.
+Visual design is fairly non-specialized. Someone who considers themselves a visual designer will have a foundation in graphic design and branding but can also create User Interface designs for the digital and physical space. They likely have knowledge and experience in UX, too. 
 
-### Visual Designer ### 
+Here’s a breakdown of the design world’s more specialized positions: 
+
+
+### Visual Designer 
 
 This is more broad than specialized but a visual designer has foundation ins graphic design, branding but can also execute on user interface designs for the digital and physical space. A visual designer many times have knowledge and experience in user experience as well, especially when it comes to the user journey that touches on marketing.
 
-### Interaction Designer (IX) ### 
+### Interaction Designer (IX) 
 
-A variant of a visual designer or UI designer. A interaction designer focuses on the motion aspects of the product. What does the transitions look like? What are the micro-interactions that make the brand memorable?
+Kind of like a visual designer or UI designer, but an interaction designer focuses on the motion aspects of the product. They are constantly asking and make decisions about questions like, What does the transitions look like? What are the micro-interactions that make the brand memorable?
 
-### Information Architect (IA) ### 
+### Information Architect (IA) 
 
-A specialized designer that has understanding of the broad user experience but focuses on the content and how it's structured for the user. Information architects organize content by means of  site maps and language and label systems. 
+A specialized designer that has a broad understanding UX but focuses specifically on content and how it presents to the user. To structure it for the user, information architects organize content using site maps and label systems. 
 
-### Experience Architect (XA) ### 
+### Experience Architect (XA 
 
-Experience architects, a fairly newer term, encompass several interdisciplinary focuses including user experience, interaction design, information architecture, design research, content management, project management, and application development. This means this designer is a true expert in design, human behavior, writing and even computer science. This role is comparable to Product Designers and some UX Designers in certain markets. 
+Experience architects are fairly new to the design scene. In their day-to-day, they have a hand in many design aspects, including user experience, interaction design, information architecture, design research, content management, project management and application development. To be successful, they must have a firm understanding of design, human behavior writing and even computer science. They are comparable to Product Designers and some UX Designers in certain markets. 
 
-Wikipedia explains it well when it says XA are "responsible for connecting human emotions with the end product thus creating co-relations by ensuring that the experience meets or exceeds needs and objectives of the intended or wide users." [https://www.wikiwand.com/en/Experience\_architecture](https://www.wikiwand.com/en/Experience_architecture)
+Take it from Wikipedia, which [says](https://www.wikiwand.com/en/Experience_architecture) that XA are "responsible for connecting human emotions with the end product thus creating co-relations by ensuring that the experience meets or exceeds needs and objectives of the intended or wide users." 
 
-### Experience Designer (XD) ### 
+### Experience Designer (XD) 
 
-Experience Design looks at all touchpoints between people, brands, and the ideas, emotions, and memories that these moments create. As holistic problem solvers, XDs must look at an entire brand ecosystem and ask: “How can I orchestrate an experience in a way that delivers results across all channels and touch points?" 
-    
-Though this role sounds exactly like what an UX Designer would do, an experience designer focuses on more than the digital touch point and looks at that broad user's journey. Many times, an experience designer is focused on live events and thinks about all five senses of the experiencer, not just the two for user in the digital interface space. 
+Experience Designers are interested in the ideas, emotions and memories created when people and brands connect. As holistic problem solvers, XD’s evaluate entire brand ecosystems to design an experience across all channels that delivers results during every interaction. 
 
-The XD Agency summarizes this well: "A brand creating a mobile app needs UX. A brand putting on an activation needs XD. User Experience is the more specific discipline; Experience Design is the broader one." [https://xdagency.com/ux-vs-xd/](https://xdagency.com/ux-vs-xd/)
+Though this role sounds similar to a UX Designer, an XD looks at the user’s journey with a brand in a broader sense, instead of considering only the user’s digital connections with a brand. XD’s often design live events which require them to think about how the user will experience a brand with all five senses -- not just the two senses triggered by a digital interaction.
+
+The XD Agency [says](https://xdagency.com/ux-vs-xd/): "A brand creating a mobile app needs UX. A brand putting on an activation needs XD. User Experience is the more specific discipline; Experience Design is the broader one." 
 <br><br>
 
 
-## Getting Some Clarity ##
+## Getting Some Clarity 
 
 So which path should you take? Use the [Design Program Match Tool](https://theflatironschool.typeform.com/to/FpxjnA) to help you figure out which career path is right for you. 
