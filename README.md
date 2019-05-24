@@ -11,25 +11,25 @@ Visual design is fairly non-specialized. Someone who considers themselves a visu
 Here’s a breakdown of the design world’s more specialized positions: 
 
 
-### Visual Designer 
+# Visual Designer 
 
 This is more broad than specialized but a visual designer has foundation ins graphic design, branding but can also execute on user interface designs for the digital and physical space. A visual designer many times have knowledge and experience in user experience as well, especially when it comes to the user journey that touches on marketing.
 
-### Interaction Designer (IX) 
+# Interaction Designer (IX) 
 
 Kind of like a visual designer or UI designer, but an interaction designer focuses on the motion aspects of the product. They are constantly asking and make decisions about questions like, What does the transitions look like? What are the micro-interactions that make the brand memorable?
 
-### Information Architect (IA) 
+# Information Architect (IA) 
 
 A specialized designer that has a broad understanding UX but focuses specifically on content and how it presents to the user. To structure it for the user, information architects organize content using site maps and label systems. 
 
-### Experience Architect (XA 
+# Experience Architect (XA 
 
 Experience architects are fairly new to the design scene. In their day-to-day, they have a hand in many design aspects, including user experience, interaction design, information architecture, design research, content management, project management and application development. To be successful, they must have a firm understanding of design, human behavior writing and even computer science. They are comparable to Product Designers and some UX Designers in certain markets. 
 
 Take it from Wikipedia, which [says](https://www.wikiwand.com/en/Experience_architecture) that XA are "responsible for connecting human emotions with the end product thus creating co-relations by ensuring that the experience meets or exceeds needs and objectives of the intended or wide users." 
 
-### Experience Designer (XD) 
+# Experience Designer (XD) 
 
 Experience Designers are interested in the ideas, emotions and memories created when people and brands connect. As holistic problem solvers, XD’s evaluate entire brand ecosystems to design an experience across all channels that delivers results during every interaction. 
 
@@ -39,6 +39,6 @@ The XD Agency [says](https://xdagency.com/ux-vs-xd/): "A brand creating a mobile
 <br><br>
 
 
-## Meet Your Match
+# Meet Your Match
 So…which path should YOU take? Use the [Design Program Match Tool](https://theflatironschool.typeform.com/to/FpxjnA) to figure out which career path is right for you.
 
