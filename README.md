@@ -42,6 +42,6 @@ The XD Agency [says](https://xdagency.com/ux-vs-xd/): "A brand creating a mobile
 # Meet Your Match
 So…which path should YOU take? Use the [Design Course Match Tool](https://theflatironschool.typeform.com/to/FpxjnA) to figure out which career path is right for you.
 
-![Design Course Match Tool](https://drive.google.com/file/d/1s17-5fqEvtg-2exSRJnuamDXcoeq-jg7/view?usp=sharing "Design Course Match Tool")
+![Design Course Match Tool](https://drive.google.com/file/d/1s17-5fqEvtg-2exSRJnuamDXcoeq-jg7/view "Design Course Match Tool")
 
 
